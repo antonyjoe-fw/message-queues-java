@@ -1,0 +1,9 @@
+.idea/
+gmbServer.iml
+target/
+dependency-reduced-pom.xml
+locationFilterTagTemp/
+queries/
+scripts/reviews.csv
+scripts/reviewsScrollScript.py
+gmbServer.log
